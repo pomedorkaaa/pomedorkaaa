@@ -1,0 +1,263 @@
+{
+  "version": 1,
+  "login": "pomedorkaaa",
+  "seed": "#69769B",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "palettes": {
+    "light": {
+      "primary": "#505E81",
+      "onPrimary": "#FFFFFF",
+      "primaryContainer": "#D9E2FF",
+      "onPrimaryContainer": "#0B1A3A",
+      "secondary": "#575E71",
+      "onSecondary": "#FFFFFF",
+      "secondaryContainer": "#DCE2F9",
+      "onSecondaryContainer": "#151B2C",
+      "tertiary": "#6A567F",
+      "onTertiary": "#FFFFFF",
+      "tertiaryContainer": "#EFDBFF",
+      "onTertiaryContainer": "#241338",
+      "surface": "#EEF0FF",
+      "surfaceDim": "#DCE2F9",
+      "surfaceBright": "#FFFFFF",
+      "surfaceContainerLowest": "#FFFFFF",
+      "surfaceContainerLow": "#EEF0FF",
+      "surfaceContainer": "#EEF0FF",
+      "surfaceContainerHigh": "#DCE2F9",
+      "surfaceContainerHighest": "#D9E2FF",
+      "onSurface": "#0B1A3A",
+      "onSurfaceVariant": "#404659",
+      "outline": "#70778B",
+      "outlineVariant": "#C0C6DC",
+      "inverseSurface": "#212121",
+      "inverseOnSurface": "#EEF0FF",
+      "inversePrimary": "#B8C6EE",
+      "scrim": "#000000",
+      "shadow": "#000000"
+    },
+    "dark": {
+      "primary": "#B8C6EE",
+      "onPrimary": "#223050",
+      "primaryContainer": "#223050",
+      "onPrimaryContainer": "#D9E2FF",
+      "secondary": "#C0C6DC",
+      "onSecondary": "#2A3042",
+      "secondaryContainer": "#2A3042",
+      "onSecondaryContainer": "#DCE2F9",
+      "tertiary": "#D5BDEC",
+      "onTertiary": "#3A284E",
+      "tertiaryContainer": "#3A284E",
+      "onTertiaryContainer": "#EFDBFF",
+      "surface": "#111111",
+      "surfaceDim": "#111111",
+      "surfaceBright": "#242424",
+      "surfaceContainerLowest": "#000000",
+      "surfaceContainerLow": "#141414",
+      "surfaceContainer": "#212121",
+      "surfaceContainerHigh": "#212121",
+      "surfaceContainerHighest": "#242424",
+      "onSurface": "#EEF0FF",
+      "onSurfaceVariant": "#C0C6DC",
+      "outline": "#8A90A5",
+      "outlineVariant": "#404659",
+      "inverseSurface": "#EEF0FF",
+      "inverseOnSurface": "#151B2C",
+      "inversePrimary": "#505E81",
+      "scrim": "#000000",
+      "shadow": "#000000"
+    }
+  },
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "wave",
+    "buttons",
+    "socials",
+    "streak"
+  ],
+  "hidden": [
+    "socials",
+    "streak"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Egor Stirbu",
+    "subtitle": "Frontend developer · Building thoughtful web interfaces.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Chișinău, Moldova"
+      },
+      {
+        "icon": "school",
+        "label": "IT student @ UTM"
+      }
+    ]
+  },
+  "about": {
+    "title": "A little about me",
+    "items": [
+      {
+        "icon": "code",
+        "label": "I build web interfaces with React, Next.js and Nuxt."
+      },
+      {
+        "icon": "school",
+        "label": "Studying Information Technology at UTM."
+      },
+      {
+        "icon": "work",
+        "label": "Open to junior frontend opportunities."
+      }
+    ]
+  },
+  "stack": {
+    "title": "What I work with",
+    "groups": [
+      {
+        "title": "Frontend",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS / SCSS"
+          },
+          {
+            "icon": "brand:tailwindcss",
+            "label": "Tailwind CSS"
+          }
+        ]
+      },
+      {
+        "title": "Learning & exploring",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:vuedotjs",
+            "label": "Vue"
+          },
+          {
+            "icon": "brand:nuxt",
+            "label": "Nuxt"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "palette",
+            "label": "Photoshop"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "moldcell-practice",
+      "jasmine-dragon",
+      "tech-md-front",
+      "s-terra-landing"
+    ],
+    "overrides": {
+      "moldcell-practice": {
+        "text": "Nuxt e-commerce learning project, built with a mentor at Moldcell.",
+        "icon": "shopping_bag",
+        "shape": "soft"
+      },
+      "jasmine-dragon": {
+        "text": "Frontend migration from React to Next.js for a tea shop.",
+        "icon": "local_cafe",
+        "shape": "cookie12"
+      },
+      "tech-md-front": {
+        "text": "Web application frontend built with React, TypeScript and Tailwind CSS.",
+        "icon": "code",
+        "shape": "gem"
+      },
+      "s-terra-landing": {
+        "text": "A complete responsive landing page, built from design to frontend.",
+        "icon": "web",
+        "shape": "soft"
+      }
+    },
+    "empty": "Explore the source code.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "On GitHub",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repositories",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my public repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "mail",
+        "label": "Let's talk",
+        "url": "mailto:realitzegor@gmail.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "Explore my projects",
+        "url": "https://github.com/pomedorkaaa?tab=repositories",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}

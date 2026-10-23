@@ -1,0 +1,343 @@
+{
+ "key": "ce6cc1d2",
+ "stars": 0,
+ "contributions": 339,
+ "repos": 17,
+ "followers": 4,
+ "languages": [
+  [
+   "TypeScript",
+   755207
+  ],
+  [
+   "Python",
+   573092
+  ],
+  [
+   "JavaScript",
+   327622
+  ],
+  [
+   "HTML",
+   190169
+  ],
+  [
+   "C#",
+   167461
+  ],
+  [
+   "CSS",
+   160472
+  ],
+  [
+   "Vue",
+   64457
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 0,
+  "longest": 3
+ },
+ "pins": [
+  {
+   "name": "jasmine-dragon",
+   "url": "https://github.com/pomedorkaaa/jasmine-dragon",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Nutrina",
+   "url": "https://github.com/S-Terra-Soft/Nutrina",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "s-terra-landing",
+   "url": "https://github.com/pomedorkaaa/s-terra-landing",
+   "text": "for tests",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "eco-deserts",
+   "url": "https://github.com/pomedorkaaa/eco-deserts",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "team_lidl",
+   "url": "https://github.com/pomedorkaaa/team_lidl",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "moldcell-practice",
+   "url": "https://github.com/pomedorkaaa/moldcell-practice",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "verhutina-portfolio",
+   "url": "https://github.com/pomedorkaaa/verhutina-portfolio",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "tech-md-back",
+   "url": "https://github.com/pomedorkaaa/tech-md-back",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "tech-md-front",
+   "url": "https://github.com/pomedorkaaa/tech-md-front",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "half-store",
+   "url": "https://github.com/pomedorkaaa/half-store",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "grocery-store",
+   "url": "https://github.com/pomedorkaaa/grocery-store",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "jasmine-dragon",
+   "url": "https://github.com/pomedorkaaa/jasmine-dragon",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "s-terra-landing",
+   "url": "https://github.com/pomedorkaaa/s-terra-landing",
+   "text": "for tests",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "pro-pets-react-1",
+   "url": "https://github.com/pomedorkaaa/pro-pets-react-1",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "shit-Calc",
+   "url": "https://github.com/pomedorkaaa/shit-Calc",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "citadel",
+   "url": "https://github.com/pomedorkaaa/citadel",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "react-n-git-study",
+   "url": "https://github.com/pomedorkaaa/react-n-git-study",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "eco-deserts",
+   "url": "https://github.com/pomedorkaaa/eco-deserts",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "Nutrina",
+   "url": "https://github.com/pomedorkaaa/Nutrina",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "repo-test",
+   "url": "https://github.com/pomedorkaaa/repo-test",
+   "text": "test",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "running-elephant",
+   "url": "https://github.com/pomedorkaaa/running-elephant",
+   "text": "бегающий слоник",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  }
+ ]
+}
