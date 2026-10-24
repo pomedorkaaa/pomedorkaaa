@@ -8,6 +8,7 @@ on:
     paths:
       - profile.json
       - .profile/render.mjs
+      - .profile/avatar.png
       - .profile/icons.json
       - .github/workflows/profile.yml
 

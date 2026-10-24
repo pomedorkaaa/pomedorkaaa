@@ -16,3 +16,5 @@ run `npm ci`, `npm run assets`, `npm run renderer`, and copy
 Edit content, ordering, icons and colors in `profile.json`.
 The workflow uses GitHub's built-in token and public repository statistics.
 No personal access token is required. `.profile/data.json` is a public-data cache.
+
+`hero.avatarPath` points to the local PNG used in the header instead of the GitHub avatar. Replace `.profile/avatar.png` to change it; scheduled updates preserve this image.

@@ -100,7 +100,8 @@
         "icon": "school",
         "label": "IT student @ UTM"
       }
-    ]
+    ],
+    "avatarPath": ".profile/avatar.png"
   },
   "about": {
     "title": "A little about me",
