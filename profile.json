@@ -82,7 +82,6 @@
     "streak"
   ],
   "hidden": [
-    "socials",
     "streak"
   ],
   "hero": {
@@ -259,10 +258,31 @@
     "days": "days"
   },
   "socials": {
-    "items": [],
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/pomedorkaaa"
+      },
+      {
+        "icon": "brand:viber",
+        "url": "https://viber.me/+37378129293"
+      },
+      {
+        "icon": "brand:whatsapp",
+        "url": "https://wa.me/37378129293"
+      },
+      {
+        "icon": "brand:linkedin",
+        "url": "https://www.linkedin.com/in/egor-%C8%99tirbu-534a54266/"
+      },
+      {
+        "icon": "brand:codewars",
+        "url": "https://www.codewars.com/users/pomedorkaaa"
+      }
+    ],
     "variant": "chip",
     "fill": "tonal",
-    "card": true
+    "card": false
   },
   "buttons": {
     "items": [
