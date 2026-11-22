@@ -200,8 +200,8 @@
             "label": "VS Code"
           },
           {
-            "icon": "build",
-            "label": "Harnesses"
+            "icon": "smart_toy",
+            "label": "AI"
           }
         ]
       }
