@@ -88,7 +88,7 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "Egor Stirbu",
-    "subtitle": "Frontend developer · Building thoughtful web interfaces.",
+    "subtitle": "Exploring all kinds of interesting things.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -117,6 +117,10 @@
       {
         "icon": "work",
         "label": "Open to junior frontend opportunities."
+      },
+      {
+        "icon": "psychology",
+        "label": "I enjoy finding effective algorithms to solve problems."
       }
     ]
   },
@@ -166,6 +170,14 @@
           {
             "icon": "brand:nuxt",
             "label": "Nuxt"
+          },
+          {
+            "icon": "brand:openjdk",
+            "label": "Java"
+          },
+          {
+            "icon": "database",
+            "label": "SQL"
           }
         ]
       },
@@ -183,6 +195,14 @@
           {
             "icon": "palette",
             "label": "Photoshop"
+          },
+          {
+            "icon": "terminal",
+            "label": "VS Code"
+          },
+          {
+            "icon": "build",
+            "label": "Harnesses"
           }
         ]
       }
